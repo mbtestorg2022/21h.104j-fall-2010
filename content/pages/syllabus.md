@@ -61,16 +61,16 @@ Syllabus Archive
 
 The following syllabi come from a variety of different terms. They illustrate the evolution of this course over time, and are intended to provide alternate views into the instruction of this course.
 
-Fall 2009, Robert Fogelson and Pauline Maier ([PDF](/courses/history/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010/Syllabus/MIT21H_104JF10_syllf09.pdf))
+Fall 2009, Robert Fogelson and Pauline Maier ({{% resource_link "95e03c4c-924a-62a8-e387-6d49f51889c0" "PDF" %}})
 
-Fall 2008, Robert Fogelson and Pauline Maier ([PDF](/courses/history/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010/Syllabus/MIT21H_104JF10_syllf08.pdf))
+Fall 2008, Robert Fogelson and Pauline Maier ({{% resource_link "b0b8e405-d7ef-efe5-97d5-8725d24f0498" "PDF" %}})
 
-Fall 2007, Robert Fogelson and Pauline Maier ([PDF](/courses/history/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010/Syllabus/MIT21H_104JF10_syllf07.pdf))
+Fall 2007, Robert Fogelson and Pauline Maier ({{% resource_link "94d9e029-f342-60fb-bffd-2e8a65fcfcf6" "PDF" %}})
 
-Fall 2006, Robert Fogelson and Pauline Maier ([PDF](/courses/history/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010/Syllabus/MIT21H_104JF10_syllf06.pdf))
+Fall 2006, Robert Fogelson and Pauline Maier ({{% resource_link "b4b6bfb0-bd0d-05f0-fcf9-fdfa4ab7b5fc" "PDF" %}})
 
-Fall 2005, Robert Fogelson and Pauline Maier ([PDF](/courses/history/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010/Syllabus/MIT21H_104JF10_syllf05.pdf))
+Fall 2005, Robert Fogelson and Pauline Maier ({{% resource_link "64bb8461-4089-6fa9-50d5-176bd1c4d436" "PDF" %}})
 
-Fall 2004, Robert Fogelson and Pauline Maier ([PDF](/courses/history/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010/Syllabus/MIT21H_104JF10_syllf04.pdf))
+Fall 2004, Robert Fogelson and Pauline Maier ({{% resource_link "4aca447d-3ec5-3600-2d1a-b8d02df9e8ba" "PDF" %}})
 
-Fall 2003, Robert Fogelson and Pauline Maier ([PDF](/courses/history/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010/Syllabus/MIT21H_104JF10_syllf03.pdf))
+Fall 2003, Robert Fogelson and Pauline Maier ({{% resource_link "8adfe30c-8a2b-c2d2-d1f8-e5b96a63fd35" "PDF" %}})
